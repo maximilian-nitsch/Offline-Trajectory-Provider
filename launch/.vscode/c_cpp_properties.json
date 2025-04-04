@@ -1,0 +1,33 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/nitsch/ros2-triple_ws/install/navigation_filter_package/include/**",
+        "/home/nitsch/ros2-triple_ws/install/nanoauv_sensor_driver_interfaces/include/**",
+        "/home/nitsch/ros2-triple_ws/install/nanoauv_perception_msgs/include/**",
+        "/home/nitsch/ros2-triple_ws/install/nanoauv_navigation_interfaces/include/**",
+        "/home/nitsch/ros2-triple_ws/install/nanoauv_map_provider_msgs/include/**",
+        "/home/nitsch/ros2-triple_ws/install/cmake_package_interfaces/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/nitsch/ros2-triple_ws/src/depth-pressure-sensor-simulator/include/**",
+        "/home/nitsch/ros2-triple_ws/src/dvl-simulator/include/**",
+        "/home/nitsch/ros2-triple_ws/src/imu-simulator/include/**",
+        "/home/nitsch/ros2-triple_ws/src/magnetometer-simulator/include/**",
+        "/home/nitsch/ros2-triple_ws/src/navigation-filter/include/**",
+        "/home/nitsch/ros2-triple_ws/src/offline-trajectory-provider/include/**",
+        "/home/nitsch/ros2-triple_ws/src/usbl-simulator/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

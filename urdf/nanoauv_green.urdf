@@ -1,0 +1,23 @@
+<!--@license BSD-3 https://opensource.org/licenses/BSD-3-Clause
+Copyright (c) 2024, Institute of Automatic Control - RWTH Aachen University
+Maximilian Nitsch (m.nitsch@irt.rwth-aachen.de)
+All rights reserved.
+-->
+<?xml version="1.0"?>
+
+<robot name="nanoauv_estimated">
+    <link name="base_link_sname_estimated">
+        <visual>
+            <origin rpy="0 0 0" xyz="0 0 0"/> 
+            <geometry>
+                <mesh filename="package://offline_trajectory_provider_package/urdf/meshes/stl/nanoauv.stl" scale="0.01 0.01 0.01"/>
+            </geometry>
+                <material name="shiny_green">
+                    <color rgba="0.0 1.0 0.0 1.0"/>     <!-- Green color with full opacity -->
+                    <specular rgba="1.0 1.0 1.0 1.0"/>  <!-- White specular highlights -->
+                    <ambient rgba="0.2 0.2 0.0 1.0"/>   <!-- Ambient color with a slight greenish tint -->
+                    <diffuse rgba="0.8 0.8 0.0 1.0"/>   <!-- Diffuse color with yellowish tint -->
+                </material>
+        </visual>
+    </link>
+</robot>
