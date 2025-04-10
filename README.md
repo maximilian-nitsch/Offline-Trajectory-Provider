@@ -101,8 +101,8 @@ This node publishes the following topics:
 
 | Topic Name       | Message Type        | Description                        |
 |------------------|---------------------|------------------------------------|
-| `/auv /odometry`   | `nav_msgs/Odometry.msg`   | Publishes odometry data.|
-| `auv/accel`   | `geometry_msgs/AccelStamped.msg`   | Publishes acceleration data.|
+| `/auv/odometry`   | `nav_msgs/Odometry.msg`   | Publishes odometry data.|
+| `/auv/accel`   | `geometry_msgs/AccelStamped.msg`   | Publishes acceleration data.|
 
 ## Coding Guidelines
 
