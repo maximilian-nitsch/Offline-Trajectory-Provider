@@ -2,6 +2,8 @@
 
 [![License](https://img.shields.io/badge/license-BSD--3-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 
+![](data/simulator_example.png)
+
 <!--- protected region package header begins -->
 **Author:**
 - Maximilian Nitsch <maximilian.nitsch@rwth-aachen.de> (Institute of Automatic Control - RWTH Aachen University)
