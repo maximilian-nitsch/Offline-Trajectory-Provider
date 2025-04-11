@@ -1,6 +1,11 @@
 # IRT C++/ROS 2 nanoAUV Offline Trajectory Provider
-
-[![License](https://img.shields.io/badge/license-BSD--3-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
+[![Build](https://github.com/maximilian-nitsch/Offline-Trajectory-Provider/actions/workflows/ci.yaml/badge.svg)](https://github.com/maximilian-nitsch/Offline-Trajectory-Provider/actions)
+[![License](https://img.shields.io/github/license/maximilian-nitsch/Offline-Trajectory-Provider.svg)](https://github.com/maximilian-nitsch/Offline-Trajectory-Provider/blob/main/LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/maximilian-nitsch/Offline-Trajectory-Provider)](https://github.com/maximilian-nitsch/Offline-Trajectory-Provider/commits/main)
+[![ROS2 Humble](https://img.shields.io/badge/ROS2-Humble-blue)](https://index.ros.org/doc/ros2/Installation/Humble/)
+[![Release](https://img.shields.io/github/v/release/maximilian-nitsch/Offline-Trajectory-Provider)](https://github.com/maximilian-nitsch/Offline-Trajectory-Provider/releases)
+[![Open Issues](https://img.shields.io/github/issues/maximilian-nitsch/Offline-Trajectory-Provider)](https://github.com/maximilian-nitsch/Offline-Trajectory-Provider/issues)
+[![Contributors](https://img.shields.io/github/contributors/maximilian-nitsch/Offline-Trajectory-Provider)](https://github.com/maximilian-nitsch/Offline-Trajectory-Provider/graphs/contributors)
 
 ![](data/simulator_example.png)
 
