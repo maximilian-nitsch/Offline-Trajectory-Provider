@@ -1,8 +1,9 @@
-"""@license BSD-3 https://opensource.org/licenses/BSD-3-Clause
-Copyright (c) 2024, Institute of Automatic Control - RWTH Aachen University
-Maximilian Nitsch (m.nitsch@irt.rwth-aachen.de)
-All rights reserved.
-"""
+# @license BSD-3 https://opensource.org/licenses/BSD-3-Clause
+# Copyright (c) 2024, Institute of Automatic Control - RWTH Aachen University
+# Maximilian Nitsch (m.nitsch@irt.rwth-aachen.de)
+# All rights reserved.
+
+"""Launch the offline trajectory provider and visualization nodes."""
 
 from ament_index_python.packages import get_package_share_directory
 from launch import LaunchDescription
